@@ -18,6 +18,7 @@
 * [PYTHON](python/README.md)
   * [00\_HELLO\_PYTHON](python/00_hello_python.md)
 * [DJANGO](django/README.md)
+  * [01\_Django\_REST\_framework](django/01_django_rest_framework.md)
   * [00\_HELLO\_DJANGO](django/00_hello_django.md)
 * [NODE.JS](node.js/README.md)
   * [00\_HELLO\_NODE.JS](node.js/00_hello_node.js.md)
