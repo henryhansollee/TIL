@@ -23,7 +23,7 @@
 
 #### 2-1. 젯브레인 툴박스 설치
 
-[https://www.jetbrains.com/ko-kr/toolbox-app/](https://www.jetbrains.com/ko-kr/toolbox-app/)
+{% embed url="https://www.jetbrains.com/ko-kr/toolbox-app/" %}
 
 
 
