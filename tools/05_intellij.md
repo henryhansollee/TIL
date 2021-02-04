@@ -25,5 +25,11 @@
 
 {% embed url="https://www.jetbrains.com/ko-kr/toolbox-app/" %}
 
+### 3. 인텔리제이에서 깃허브 연동
+
+#### 3-1. Action 검색창 `Ctrl + Shift + A`
+
+`share project on GitHub` 검색
+
 
 
