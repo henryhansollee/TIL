@@ -14,6 +14,7 @@
 * [VUE.JS](vue.js/README.md)
   * [00\_HELLO\_VUE.JS](vue.js/00_hello_vue.js.md)
 * [REACT](react/README.md)
+  * [01\_Redux](react/01_redux.md)
   * [00\_HELLO\_REACT](react/00_hello_react.md)
 * [PYTHON](python/README.md)
   * [00\_HELLO\_PYTHON](python/00_hello_python.md)
