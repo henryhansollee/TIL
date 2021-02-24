@@ -1,6 +1,8 @@
 # Table of contents
 
 * [📚 Today I Learned](README.md)
+* [PYTHON](python/README.md)
+  * [00\_HELLO\_PYTHON](python/00_hello_python.md)
 * [NODE.JS](node.js/README.md)
   * [00\_HELLO\_NODE.JS](node.js/00_hello_node.js.md)
 * [REACT](react/README.md)
@@ -18,8 +20,6 @@
   * [00\_HELLO\_BOOTSTRAP](bootstrap/00_hello_bootstrap.md)
 * [VUE.JS](vue.js/README.md)
   * [00\_HELLO\_VUE.JS](vue.js/00_hello_vue.js.md)
-* [PYTHON](python/README.md)
-  * [00\_HELLO\_PYTHON](python/00_hello_python.md)
 * [DJANGO](django/README.md)
   * [01\_Django\_REST\_framework](django/01_django_rest_framework.md)
   * [00\_HELLO\_DJANGO](django/00_hello_django.md)
